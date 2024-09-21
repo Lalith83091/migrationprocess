@@ -1,0 +1,33 @@
+.offcanvas-bottom {
+    height: auto;
+  }
+  
+  .progress {
+    height: 10px;
+  }
+  
+  .progress-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .toggle-button {
+    position: absolute;
+    top: -40px;
+    right: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    padding: 5px 10px;
+  }
+  
+  .fa-rocket {
+    margin-right: 15px;
+  }
+
+  
+ 
